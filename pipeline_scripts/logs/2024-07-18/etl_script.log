@@ -1,0 +1,3 @@
+2024-07-18 10:47:29,525 - INFO - Successfully read the file: pipeline_scripts/dataset/5k_borrowers_data.csv
+2024-07-18 10:47:29,627 - INFO - Configuration loaded from pipeline_scripts/vault/credentials.config
+2024-07-18 10:47:29,661 - INFO - Connected to MySQL database: predixion at predixion.czmw80cws77c.us-east-1.rds.amazonaws.com
